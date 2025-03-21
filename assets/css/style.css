@@ -4731,6 +4731,7 @@ ol.wp-block-rss {
 .main-menu ul {
   margin: 0;
   padding: 0;
+  padding-right: 12cm;
 }
 
 .main-menu ul li {
